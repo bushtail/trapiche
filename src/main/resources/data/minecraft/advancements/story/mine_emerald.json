@@ -1,0 +1,33 @@
+{
+	"parent": "minecraft:story/mine_diamond",
+	"display": {
+		"icon": {
+			"item": "minecraft:emerald"
+		},
+		"title": {
+			"translate": "advancements.story.minecraft.mine_emerald.title"
+		}
+		"description": {
+			"translate": "advancements.story.minecraft.mine_emerald.description"
+		}
+	},
+	"criteria": {
+		"has_diamond": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:emerald"
+				}]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"trapiche:emerald_axe",
+			"trapiche:emerald_hoe",
+			"trapiche:emerald_pickaxe",
+			"trapiche:emerald_shovel",
+			"trapiche:emerald_sword"
+		]
+	}
+}

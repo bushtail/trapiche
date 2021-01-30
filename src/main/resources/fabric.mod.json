@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "trapiche",
+	"version": "${version}",
+
+	"name": "Trapiche",
+	"description": "Emerald tools, nothing more.",
+	"authors": [
+		"enosich"
+	],
+	"contact": {
+		"homepage": "https://evannosich.ca/",
+		"sources": "https://github.com/enosich/Trapiche"
+	},
+
+	"license": "MIT",
+	"icon": "assets/trapiche/textures/item/emerald_pickaxe.png",
+
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ca.evannosich.trapiche.Trapiche"
+		]
+	},
+	
+	"depends": {
+		"fabricloader": ">=0.7.4",
+		"fabric": "*",
+		"minecraft": "1.16.x"
+	}
+}
