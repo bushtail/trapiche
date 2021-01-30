@@ -6,7 +6,7 @@
 		},
 		"title": {
 			"translate": "advancements.story.minecraft.mine_emerald.title"
-		},
+		}
 		"description": {
 			"translate": "advancements.story.minecraft.mine_emerald.description"
 		}
