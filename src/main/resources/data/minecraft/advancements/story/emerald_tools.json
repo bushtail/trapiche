@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:story/emerald_tools",
+	"parent": "minecraft:story/mine_emerald",
 	"display": {
 		"icon": {
 			"item": "trapiche:emerald_pickaxe"
@@ -12,7 +12,7 @@
 		}
 	},
 	"criteria": {
-		"has_diamond": {
+		"has_emerald_tools": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [{

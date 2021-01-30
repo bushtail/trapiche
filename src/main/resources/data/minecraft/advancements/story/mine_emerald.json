@@ -12,7 +12,7 @@
 		}
 	},
 	"criteria": {
-		"has_diamond": {
+		"has_emerald": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [{
