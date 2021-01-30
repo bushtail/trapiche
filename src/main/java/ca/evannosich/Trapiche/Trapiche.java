@@ -1,4 +1,4 @@
-package ca.evannosich.Trapiche;
+package ca.evannosich.trapiche;
 
 // Import ModInitializer
 import net.fabricmc.api.ModInitializer;

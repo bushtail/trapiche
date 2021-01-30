@@ -1,4 +1,4 @@
-package ca.evannosich.Trapiche;
+package ca.evannosich.trapiche;
 
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;

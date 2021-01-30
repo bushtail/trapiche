@@ -19,7 +19,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"ca.evannosich.Trapiche.Trapiche"
+			"ca.evannosich.trapiche.Trapiche"
 		]
 	},
 	
