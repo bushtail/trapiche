@@ -7,8 +7,8 @@
 	],
 	"key": {
 		"E": {
-			"item": "minecraft:emerald"
-		}
+			"item": "minecraft:emerald_block"
+		},
 		"S": {
 			"item": "minecraft:stick"
 		}
